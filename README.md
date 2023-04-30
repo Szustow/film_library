@@ -18,4 +18,6 @@ psql film_library
 # docker
 make dev-docker-setup
 make dev-docker-attach
+make
+psql film_library
 ```
