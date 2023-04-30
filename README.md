@@ -8,7 +8,7 @@
 ## Install
 
 ```bash
-git clone https://github.com/Szustow/database.git
+git clone https://github.com/Szustow/film_library.git
 cd database
 # load schema and insert data
 make
