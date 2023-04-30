@@ -9,9 +9,11 @@
 
 ```bash
 git clone https://github.com/Szustow/film_library.git
-cd database
+cd film_library
+
 # load schema and insert data
 make
+
 # docker
 make dev-docker-setup
 make dev-docker-attach
