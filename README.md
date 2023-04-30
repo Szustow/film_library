@@ -13,6 +13,7 @@ cd film_library
 
 # load schema and insert data
 make
+psql film_library
 
 # docker
 make dev-docker-setup
